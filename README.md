@@ -23,7 +23,7 @@ const ref = useRef(null);
 ```
 
 ## Props
-- `type`: Cursor type (e.g., "default", "pointer", "custom").  
+- `type`: Cursor type (e.g., "default", "pointer", "crosshair", "custom").  
 
 - `size`: Size in pixels (default: 20).  
 
