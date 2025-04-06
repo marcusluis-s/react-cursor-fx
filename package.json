@@ -10,10 +10,19 @@
         "test": "jest",
         "lint": "eslint 'src/**/*.{ts,tsx}'"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "description": "",
+    "keywords": [
+        "react",
+        "cursor",
+        "custom-cursor",
+        "typescript"
+    ],
+    "author": "Marcu Silva",
+    "license": "MIT",
+    "description": "A React library for custom cursors with TypeScript support",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcusluis-s/react-cursor-fx"
+    },
     "devDependencies": {
         "@rollup/plugin-commonjs": "^28.0.3",
         "@rollup/plugin-json": "^6.1.0",
@@ -37,5 +46,8 @@
     "peerDependencies": {
         "react": "^19.1.0",
         "react-dom": "^19.1.0"
-    }
+    },
+    "files": [
+        "dist"
+    ]
 }
