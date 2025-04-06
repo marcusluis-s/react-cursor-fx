@@ -1,0 +1,7 @@
+src
+tests
+*.md
+*.ts
+rollup.config.js
+tsconfig.json
+eslint.config.js

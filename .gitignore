@@ -34,11 +34,3 @@ logs
 .vscode/
 *.swp
 *.swo
-
-#
-src
-tests
-*.ts
-rollup.config.js
-tsconfig.json
-eslint.config.js
