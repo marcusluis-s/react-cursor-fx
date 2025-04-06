@@ -5,3 +5,5 @@ tests
 rollup.config.js
 tsconfig.json
 eslint.config.js
+jest.config.js
+package-lock.json
