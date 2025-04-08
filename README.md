@@ -1,7 +1,7 @@
 # React Cursor FX
 A React library for custom cursors with TypeScript support.  
 
-## Notas
+## Notes
 - Images for custom cursors must be a maximum of 128x128 pixels due to browser limitations.
 
 ## Installation
