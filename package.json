@@ -51,7 +51,8 @@
         "react-dom": "^19.2.3"
     },
     "overrides": {
-        "@babel/core": "7.29.6"
+        "@babel/core": "7.29.6",
+        "js-yaml": "3.15.1"
     },
     "files": [
         "dist"
